@@ -1,2 +1,2 @@
 new file to test the right working of commit
-
+new updating it from github to check right working of git hub
